@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T22:39:44.394Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="VzB3W_M04pjx5OUNJsAW" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T22:45:51.933Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="0amr3GqVRkYkToSUYsW7" version="14.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="981" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,6 +126,42 @@
         </mxCell>
         <mxCell id="RTjfilX-AqYNEhMyl2OA-43" value="Value 9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="RTjfilX-AqYNEhMyl2OA-40">
           <mxGeometry x="153" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-44" value="&lt;font style=&quot;font-size: 20px&quot;&gt;1. Create Wireframe&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="95" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-45" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&amp;nbsp;Build the app with Draw.io&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="120" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-46" value="&lt;font style=&quot;font-size: 20px&quot;&gt;2. Create React App&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="159.5" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-48" value="&lt;font style=&quot;font-size: 20px&quot;&gt;3. Cleanup Project&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="190" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-50" value="&lt;span style=&quot;font-size: 20px&quot;&gt;4. Structure of covid tracker&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="220" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-52" value="&lt;font style=&quot;font-size: 20px&quot;&gt;5. Create Header&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="250" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-54" value="&lt;font style=&quot;font-size: 20px&quot;&gt;6. Create Information Box&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="280" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-56" value="&lt;span style=&quot;font-size: 20px&quot;&gt;7. Create Table&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="310" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-58" value="&lt;font style=&quot;font-size: 20px&quot;&gt;8. Create Chart&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="340" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-59" value="&lt;font style=&quot;font-size: 20px&quot;&gt;9. Create Map&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="370" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-60" value="&lt;font style=&quot;font-size: 20px&quot;&gt;10. Create Styling&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="958" y="400" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTjfilX-AqYNEhMyl2OA-61" value="&lt;font style=&quot;font-size: 20px&quot;&gt;11. Deploy Project&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="430" width="300" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
